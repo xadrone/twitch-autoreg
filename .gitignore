@@ -1,0 +1,14 @@
+/.DS_Store
+/.VSCodeCounter
+/.plastic
+/.vscode
+/ignore.conf
+/node_modules
+/package-lock.json
+/dist
+/coverage
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/.eslintrc
+/.eslintignore
