@@ -12,3 +12,4 @@
 /playwright/.cache/
 /.eslintrc
 /.eslintignore
+/accountGenPOST.ts
